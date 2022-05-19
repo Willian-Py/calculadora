@@ -1,4 +1,3 @@
-'use strict'; //Verificar erros escondidos para não passarem disporcebidos
 
 const display = document.getElementById('display');
 const numeros = document.querySelectorAll('[id*=tecla]'); // O asterisco é para procurar um ID que tenha parte neste nome devido ter outros caracteres
